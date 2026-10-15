@@ -28,7 +28,7 @@ Acredito que programar vai muito além de escrever código: é entender problema
 </div>
 
 ---
-## 🐍 Snake Game (Minhas Contribuições)
+## ✨ Meus Commits
 
 <div align="center">
   <picture>
