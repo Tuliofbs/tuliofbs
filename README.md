@@ -1,4 +1,8 @@
-# 👋 Olá! Bem-vindo ao meu GitHub, sou o Tulio Felipe
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Ola!+Bem-vindo+ao+meu+GitHub!+👋;Sou+o+Tulio+Felipe;Desenvolvedor+Full+Stack;Transformando+ideias+em+solucoes+💻" alt="Typing Effect" />
+  </a>
+</h1>
 
 > **"A qualidade é construída com dedicação, e a confiança, com resultados."**
 
@@ -21,6 +25,17 @@ Acredito que programar vai muito além de escrever código: é entender problema
   <a href="https://github.com/tuliofbs">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliofbs&layout=compact&theme=buefy" alt="Top Languages" />
   </a>
+</div>
+
+---
+## 🐍 Snake Game (Minhas Contribuições)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuliofbs/tuliofbs/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuliofbs/tuliofbs/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tuliofbs/tuliofbs/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
